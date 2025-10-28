@@ -1,5 +1,35 @@
 # @hyperlane-xyz/registry
 
+## 23.5.0
+
+### Minor Changes
+
+- 1db1d84: update pulsechain usdc route to add avalanche, optimism and unichain
+- 91730ec: Add USDC/incentiv artifacts
+- ecf145d: Update EZETH configs to include plasma
+- e9d17c9: Add mantra usdc deployment artifacts
+- e2b91ed: Add CENT/incentiv artifacts
+- d8e20e5: Add USDCSTAGE/eclipsemainnet route
+- 0051abe: Add WETH/incentiv yield route
+- 2832953: Add Warden Protocol
+- 43e278f: Add incentiv USDT yield route
+- 57f2277: Add WBTC/incentiv warp route artifacts
+- 6c186fe: Update to new staticAggregationHookFactory implementation, update default hooks.
+- 2e08c55: Add LITKEY warp route deployment artifacts
+- 09b859f: Deploy to sovachain. Deprecate proofofplay.
+- 8cf4bce: Add ustd/mantra warp route deployment artifacts
+- a687c25: Add CARR configs and logo
+
+### Patch Changes
+
+- ce1882d: Add missing entries to Radix addresses to comply with Zod schema.
+- fe8252a: Update incentiv RPC url
+- 5555be3: Deploy USDC/radix
+- ca2bca6: Update incentiv owner to SAFE
+- f7550d1: feat: Add mUSD route config
+- f32f809: Remove arbitrum leg from CARR/carrchain
+- 49aa1ed: Update incentiv logo with correct one
+
 ## 23.4.0
 
 ### Minor Changes
